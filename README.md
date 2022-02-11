@@ -8,4 +8,4 @@ Clone the repo and either run it from within Android Studio or use the command `
 
 ## Screenshots
 
-![alt text](https://github.com/cyberwizard1001/api_listview/blob/main/raw/screenshot.jpg?raw=true)
+![alt text](https://github.com/cyberwizard1001/api_listview/blob/master/raw/screenshot.jpg?raw=true)
